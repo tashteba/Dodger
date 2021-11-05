@@ -1,2 +1,2 @@
 # Dodger-avec-phaser.js
-est une joue que marche juste dans live server.
+it's game which make it by phaser.
